@@ -58,4 +58,4 @@ For any questions, suggestions, or feedback, feel free to open an issue or reach
 
 This repository is maintained by Sadia Sakharkar. 
 
-# Embark on your Java journey today and unlock the full potential of your programming skills with Java-Journeys!
+Embark on your Java journey today and unlock the full potential of your programming skills with Java-Journeys!
